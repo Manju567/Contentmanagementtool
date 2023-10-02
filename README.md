@@ -1,1 +1,1 @@
-# Contentmanagementrule
+# Contentmanagementtool
